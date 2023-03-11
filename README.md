@@ -5,4 +5,5 @@ Features include student reviews, interactive maps, and a news feed. Built using
 
 Page Link: https://prince-bbit-clone.netlify.app/
 
-<img src="img-sc" alt="ScreeShot">
+<img src="Images/img-sc.png" alt="ScreeShot">
+<br>
