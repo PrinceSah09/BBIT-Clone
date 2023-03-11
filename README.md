@@ -7,3 +7,5 @@ Page Link: https://prince-bbit-clone.netlify.app/
 
 <img src="Images/img-sc.png" alt="ScreeShot">
 <br>
+
+<img src="Images/img-sc1.png" alt="ScreeShot">
